@@ -52,7 +52,8 @@ The dataset contains sales transaction data including:
 2. Monthly Sales Trend (Line Chart)
 3. Revenue by Product Line (Bar Chart)
 4. Sales by Country (Bar Chart)
-5. Deal Size Distribution (Pie Chart)
+5. lDeal Size Distribution (Pie Chart)
+
 
 
 🚀 **Project Outcome**
