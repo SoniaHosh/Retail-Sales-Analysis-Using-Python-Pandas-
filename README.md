@@ -33,7 +33,7 @@ The dataset contains sales transaction data including:
 1.	Which countries generate most sales?
 2.	Which customers contribute most revenue?
    
-📦 **Order Behavior**
+📦 Order Behavior
 1.	What is the distribution of deal sizes?
 
 
