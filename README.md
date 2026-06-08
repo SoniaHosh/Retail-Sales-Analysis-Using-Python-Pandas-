@@ -8,21 +8,18 @@ This project is an Exploratory Data Analysis (EDA) of a sales dataset. The goal 
 
 🛠️ **Tools & Technologies**
 
-•	Python 
-•	Pandas
-•	Matplotlib
-•	Google Colab
+Python, Pandas, Matplotlib, Google Colab
 
 
 📂 **Dataset Description**
 
 The dataset contains sales transaction data including:
-•	Order details
-•	Product information
-•	Customer information
-•	Sales values
-•	Country and region data
-•	Deal size categories
+1. Order details
+2. Product information
+3. Customer information
+4. Sales values
+5. Country and region data
+6. Deal size categories
 
 
 🎯 **Key Questions Answered**
@@ -42,31 +39,31 @@ The dataset contains sales transaction data including:
 
 📌 **Key Findings**
 
-a. USA is the top revenue-generating country.
-b. Classic Cars is the highest-performing product line.
-c. November shows peak sales activity.
-d. Medium deals dominate both revenue and order volume.
-e. A small number of customers contribute a large share of revenue.
+1. USA is the top revenue-generating country.
+2. Classic Cars is the highest-performing product line.
+3. November shows peak sales activity.
+4. Medium deals dominate both revenue and order volume.
+5. A small number of customers contribute a large share of revenue.
 
 
 📊 **Visualizations Included**
 
-•	Sales by Year (Line Chart)
-•	Monthly Sales Trend (Line Chart)
-•	Revenue by Product Line (Bar Chart)
-•	Sales by Country (Bar Chart)
-•	Deal Size Distribution (Pie Chart)
+1. Sales by Year (Line Chart)
+2. Monthly Sales Trend (Line Chart)
+3. Revenue by Product Line (Bar Chart)
+4. Sales by Country (Bar Chart)
+5. Deal Size Distribution (Pie Chart)
 
 
 🚀 **Project Outcome**
 
 This project demonstrates:
-•	Data cleaning and preprocessing
-•	Exploratory Data Analysis (EDA)
-•	Business insight generation
-•	Data visualization skills
+1. Data cleaning and preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Business insight generation
+4. Data visualization skills
 
 
 👤 **Author**
-Sonia - Aspiring Data Analyst
+Sonia
 
