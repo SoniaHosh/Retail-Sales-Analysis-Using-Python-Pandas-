@@ -1,15 +1,18 @@
 📊 **Sales Data Analysis Project**
 
-📌 **Project Overview:**
+
+📌 **Project Overview**
 
 This project is an Exploratory Data Analysis (EDA) of a sales dataset. The goal is to understand sales performance, customer behavior, product trends, and regional distribution using Python. The analysis is done using Pandas and Matplotlib in Google Colab.
 
-🛠️ **Tools & Technologies:**
+
+🛠️ **Tools & Technologies**
 
 •	Python 
 •	Pandas
 •	Matplotlib
 •	Google Colab
+
 
 📂 **Dataset Description**
 
@@ -20,6 +23,7 @@ The dataset contains sales transaction data including:
 •	Sales values
 •	Country and region data
 •	Deal size categories
+
 
 🎯 **Key Questions Answered**
 
@@ -35,6 +39,7 @@ The dataset contains sales transaction data including:
 📦 **Order Behavior**
 1.	What is the distribution of deal sizes?
 
+
 📌 **Key Findings**
 
 a. USA is the top revenue-generating country.
@@ -43,6 +48,7 @@ c. November shows peak sales activity.
 d. Medium deals dominate both revenue and order volume.
 e. A small number of customers contribute a large share of revenue.
 
+
 📊 **Visualizations Included**
 
 •	Sales by Year (Line Chart)
@@ -50,6 +56,7 @@ e. A small number of customers contribute a large share of revenue.
 •	Revenue by Product Line (Bar Chart)
 •	Sales by Country (Bar Chart)
 •	Deal Size Distribution (Pie Chart)
+
 
 🚀 **Project Outcome**
 
