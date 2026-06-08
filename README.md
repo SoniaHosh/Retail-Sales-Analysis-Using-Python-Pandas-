@@ -55,6 +55,5 @@ This project demonstrates:
 
 
 👤 **Author**
-Sonia
-Aspiring Data Analyst
+Sonia - Aspiring Data Analyst
 
